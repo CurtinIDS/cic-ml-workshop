@@ -1,12 +1,10 @@
-# ADACS 2017 - Machine Learning
+# CIC Machine Learning Workshop
 
-This repository contains lecture notes and Juypter notebooks for the *Astronomy Data and Compute Services (ADACS) - Introduction to Machine Learning* workshop run at the Astronomical Society of Australia's (ASA) 2017 Annual Scientific Meeting in Canberra, Australia.
+This repository contains lecture notes and Juypter notebooks for the [Curtin Institute for Computation (CIC)](http://computation.curtin.edu.au) - *Introduction to Machine Learning* workshop run at the Curtin University in Perth, Australia.
 
 The workshop materials have been prepared by:
 - [Kevin Chai](http://computation.curtin.edu.au/about/computational-specialists/health-sciences/)
 - [Rebecca Lange](http://computation.curtin.edu.au/about/computational-specialists/humanities/)
-
-from the [Curtin Institute for Computation](http://computation.curtin.edu.au) at Curtin University in Perth, Australia.
 
 ## Workshop
 
@@ -15,8 +13,6 @@ A basic knowledge of python is assumed for this workshop. i.e. knowledge of basi
 The dataset used in this workshop is compiled from [Galaxy Zoo DR1](https://www.galaxyzoo.org/) and the Sloan Digital Sky Survey (SDSS) ([using the DR9 SQL search](http://skyserver.sdss.org/dr9/en/tools/search/sql.asp)).
 
 The notebooks are descriptive and comprehensive enough to be attempted at your own pace - a solution notebook is also provided. The lecture notes explain the intuition behind how different machine learning algorithms work. 
-
-A gitter chatroom has also been created for the workshop related discussions - https://gitter.im/ADACS-ML-workshop/Lobby.
 
 ### Topics covered
 
